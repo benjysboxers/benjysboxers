@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello, my name is Philip or phill most people refer to me as benjy, I am currently a student in college taking computer systems, though my knowledge is more focused on software and web development which i am getting into slowly, I am well versed in python and django so feel free to reach out to me if you have anything partaining to those two languages. I’m currently working on learning Java, HTML, and css, as well as algorithims, currently I am looking into web development as well as machine learning in the coming future. If you are interested in a collabortation/part-time Oppurtunities regarding web development down the line please feel free to reach out to me. Have a blessed day.
 
-<!--
-**benjysboxers/benjysboxers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact me:
+pfidowu@gmail.com
+https://www.linkedin.com/in/philip-idowu-269554231/
+benjy#3037
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=benjysboxers&count_private=true&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BENJYSBOXERS&show_icons=true&theme=radical)
