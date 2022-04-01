@@ -2,7 +2,9 @@ Hello, my name is Philip or phill most people refer to me as benjy, I am current
 
 Contact me:
 pfidowu@gmail.com
+
 https://www.linkedin.com/in/philip-idowu-269554231/
+
 benjy#3037
 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
