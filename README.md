@@ -10,6 +10,7 @@ benjy#3037
 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
 <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff">
+<img src="https://img.shields.io/badge/-HTML-d26f28?logo=html&logoColor=fff">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=benjysboxers&count_private=true&show_icons=true&theme=radical)
 
