@@ -9,7 +9,7 @@ https://www.linkedin.com/in/philip-idowu-269554231/
 benjy#3037
 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
-<img src="https://img.shields.io/badge/-Javascript-3776AB?logo=Javascript&logoColor=fff">
+<img src="https://img.shields.io/badge/-Javascript-ff9900?logo=Javascript&logoColor=fff">
 <img src="https://img.shields.io/badge/-HTML-d26f28?logo=html&logoColor=fff">
 <img src="https://img.shields.io/badge/-CSS-008b8b?logo=css&logoColor=fff">
 
